@@ -31,7 +31,7 @@ Instructor: [Dr. Shiyu Chang](https://code-terminator.github.io)
     * Attack and defense beyond continuous inputs (discrete inputs, text, graph, program)
     * Connections and trade-offs between different trustworthy metrics (accuracy, explanation, fairness and robustness)
     
-**Lecture slides will be posted on GauchoSpace.  **
+**Lecture slides will be posted on GauchoSpace.**
 
 ## Grading policy
 * Homework (65%): 
