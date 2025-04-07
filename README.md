@@ -17,8 +17,9 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Date        | Description                   | Course Materials | Important Events                                       |
 |-------------|-------------------------------|------------------|--------------------------------------------------------|
 | Tue, 04/01 | Introduction to the course & Optimization review | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4721569)] | |
-| Thu, 04/03 | Optimization review con't | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4721570)]  [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4751341)]   | |
-| Thu, 04/08 | Optimization review - part 2 | [[Slides](xxx)]   | |
+| Thu, 04/03 | Optimization review con't | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4721570)]  [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4751341)]   | Presentation sign-up is open, due by Tue 04/08 |
+| Tue, 04/08 | Optimization review - part 2 | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4762282)]   | |
+| Thu, 04/10 | Lp attacks | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4762279)]   | |
 
 
 
