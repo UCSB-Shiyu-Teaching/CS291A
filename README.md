@@ -20,7 +20,7 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Thu, 04/03 | Optimization review con't | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4721570)]  [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4751341)]   | Presentation sign-up is open, due by Tue 04/08 |
 | Tue, 04/08 | Optimization review - part 2 | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4762282)]  [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4778762)]  | |
 | Thu, 04/10 | Lp attacks & blackbox attacks | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4763817)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4810751)] | |
-| Thu, 04/15 | Blackbox attacks con't | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4778752)]    | |
+| Tue, 04/15 | Blackbox attacks con't | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4778752)]    | |
 
 
 
