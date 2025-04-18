@@ -21,7 +21,7 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Tue, 04/08 | Optimization review - part 2 | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4762282)]  [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4778762)]  | |
 | Thu, 04/10 | Lp attacks & blackbox attacks | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4763817)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4810751)] | |
 | Tue, 04/15 | Blackbox attacks con't | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4778752)]  [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4820291)] [[Notes](https://ucsb.instructure.com/courses/26879/files?preview=4820292)]   | |
-| Thu, 04/17 | Backdoor attacks | [[Slides 1](https://ucsb.instructure.com/courses/26879/files?preview=4820310)] [[Slides 2](https://ucsb.instructure.com/courses/26879/files?preview=4820311)] | |
+| Thu, 04/17 | Backdoor attacks | [[Slides 1](https://ucsb.instructure.com/courses/26879/files?preview=4820310)] [[Slides 2](https://ucsb.instructure.com/courses/26879/files?preview=4820311)] [[Annotated 1](https://ucsb.instructure.com/courses/26879/files?preview=4835005)] [[Annotated 2](https://ucsb.instructure.com/courses/26879/files?preview=4835006)] | |
 | Tue, 04/22 | Seminar | [[Paper 1](https://arxiv.org/abs/2307.15043)] [[Paper 2](https://arxiv.org/abs/2306.15447)] [[Paper 3](https://arxiv.org/abs/2310.13345)] | |
 
 
