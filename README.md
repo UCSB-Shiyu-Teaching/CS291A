@@ -26,7 +26,8 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Thu, 04/24 | Seminar | [[Paper 1](https://arxiv.org/abs/2308.06463)] [[Paper 2](https://arxiv.org/abs/2309.00236)] [[Paper 3](https://arxiv.org/abs/2402.14899)] | |
 | Tue, 04/29 | Seminar | [[Paper 1](https://arxiv.org/abs/2312.02119)] [[Paper 2](https://arxiv.org/abs/2405.09113)] [[Paper 3](https://arxiv.org/abs/2402.06659)] | |
 | Thu, 05/01 | Seminar | [[Paper 1](https://arxiv.org/abs/2406.18382)] [[Paper 2](https://arxiv.org/abs/2302.10149)] [[Paper 3](https://arxiv.org/abs/2305.00944)] | |
-| Tue, 05/06 | Seminar & Adversarial training | [[Paper 1](https://arxiv.org/abs/2401.12242)] [[Slides](xxx)]  | |
+| Tue, 05/06 | Seminar & Adversarial training | [[Paper 1](https://arxiv.org/abs/2401.12242)] [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4936715)]  | |
+| Thu, 05/08 | Adversarial training - part 2| [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4936718)]  | |
 
 
 
