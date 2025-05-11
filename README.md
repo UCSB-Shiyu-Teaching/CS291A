@@ -29,6 +29,7 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Tue, 05/06 | Seminar & Adversarial training | [[Paper 1](https://arxiv.org/abs/2401.12242)] [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4936715)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4968870)] | |
 | Thu, 05/08 | Adversarial training - part 2| [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4936718)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4968871)] | |
 | Tue, 05/13 | Randomized smoothing | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4968876)] | |
+| Thu, 05/15 | Seminar | [[Paper 1](https://arxiv.org/abs/2401.17263)] [[Paper 2](https://arxiv.org/abs/2402.06255)] [[Paper 3](https://arxiv.org/abs/2408.00761)] | |
 
 
 
