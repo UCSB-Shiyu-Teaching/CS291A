@@ -28,8 +28,10 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Thu, 05/01 | Seminar | [[Paper 1](https://arxiv.org/abs/2406.18382)] [[Paper 2](https://arxiv.org/abs/2302.10149)] [[Paper 3](https://arxiv.org/abs/2305.00944)] | |
 | Tue, 05/06 | Seminar & Adversarial training | [[Paper 1](https://arxiv.org/abs/2401.12242)] [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4936715)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4968870)] | |
 | Thu, 05/08 | Adversarial training - part 2| [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4936718)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=4968871)] | |
-| Tue, 05/13 | Randomized smoothing | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4968876)] | |
+| Tue, 05/13 | Randomized smoothing | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=4968876)] [[Annotated](https://ucsb.instructure.com/courses/26879/files?preview=5002841)] | |
 | Thu, 05/15 | Seminar | [[Paper 1](https://arxiv.org/abs/2401.17263)] [[Paper 2](https://arxiv.org/abs/2402.06255)] [[Paper 3](https://arxiv.org/abs/2408.00761)] | |
+| Tue, 05/20 | Seminar | [[Paper 1](https://arxiv.org/abs/2408.17003)] [[Paper 2](https://arxiv.org/abs/2402.06363)] [[Paper 3](https://arxiv.org/abs/2409.11365)] | |
+| Thu, 05/22 | Seminar | [[Paper 1](https://openreview.net/forum?id=yR47RmND1m)] [[Paper 2](https://arxiv.org/abs/2410.14675)] [[Paper 3](https://arxiv.org/abs/2412.16339)] | |
 
 
 
