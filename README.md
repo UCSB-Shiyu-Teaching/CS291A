@@ -32,7 +32,10 @@ Updated lecture slides will be posted here shortly before/after each lecture.
 | Thu, 05/15 | Seminar | [[Paper 1](https://arxiv.org/abs/2401.17263)] [[Paper 2](https://arxiv.org/abs/2402.06255)] [[Paper 3](https://arxiv.org/abs/2408.00761)] | |
 | Tue, 05/20 | Seminar | [[Paper 1](https://arxiv.org/abs/2408.17003)] [[Paper 2](https://arxiv.org/abs/2402.06363)] [[Paper 3](https://arxiv.org/abs/2409.11365)] | |
 | Thu, 05/22 | Seminar | [[Paper 1](https://openreview.net/forum?id=yR47RmND1m)] [[Paper 2](https://arxiv.org/abs/2410.14675)] [[Paper 3](https://arxiv.org/abs/2412.16339)] | |
-
+| Thu, 05/27 | Seminar | [[Paper 1](https://arxiv.org/pdf/2502.05174)] [[Paper 2](https://arxiv.org/abs/2206.10550)] [[Paper 3](https://arxiv.org/abs/2402.16192)] | |
+| Thu, 05/29 | Guest Lecture | [[Slides](https://ucsb.instructure.com/courses/26879/files?preview=5122735)] [[Paper 1](https://arxiv.org/abs/2301.10226)]  | |
+| Thu, 06/03 | Seminar | [[Paper 1](https://arxiv.org/abs/2306.17439)] [[Paper 2](https://arxiv.org/abs/2402.19361)] [[Paper 3](https://openreview.net/forum?id=PAWQvrForJ)] | |
+| Thu, 06/05 | Seminar | [[Paper 1](https://arxiv.org/abs/2405.20774)] [[Paper 2](https://arxiv.org/abs/2406.08607)] [[Paper 3](https://arxiv.org/abs/2407.12784)] [[Paper 4](https://arxiv.org/abs/2503.00555)] | |
 
 
 
